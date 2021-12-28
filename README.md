@@ -1,12 +1,11 @@
 # gdx_info_view
- Zobrazování informací o hráči pomocí příkazů
+Display player information using commands
 
-### Požadavky:
+### Requirements:
 - es_extended
-- essentialmode (nutné pro cmd, lze předělat na esx)
 - mysql-async
 - mythic-notify
 
-### Instalace
-- Vložte `gdx_info_view` do `resources`
-- Do `server.cfg` vložte `ensure gdx_flashbang`
+### Install:
+- Put `gdx_info_view` in `resources`
+- Paste `ensure gdx_info_view` into `server.cfg`
